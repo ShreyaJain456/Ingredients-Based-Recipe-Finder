@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.recipe.ingredientbasedrecipes.about"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABOUT US"
+        android:textColor="@color/black"
+        android:textSize="50dp"
+        android:layout_gravity="center_horizontal"/>
+    <TextView
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp"
+        android:text="Ingredients based recipe app is an android application which enables the user to search the recipes based on the ingredients which they want in that recipe. It provides facility to select the items which will constitute the recipe and then the dishes will be listed out based on the items selected in two categories that is Vegetarian and Non vegetarian and from there you can download the recipe of the app."
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:textColor="@color/black"/>
+</LinearLayout>

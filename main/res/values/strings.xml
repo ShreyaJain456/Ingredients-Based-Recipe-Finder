@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">IngredientBasedRecipes</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="diary">
+        <item>Milk</item>
+        <item>Yogurt</item>
+        <item>Ice Cream</item>
+        <item>Eggs</item>
+        <item>Cheese</item>
+    </string-array>
+
+    <string-array name="vegetables">
+        <item>Garlic</item>
+        <item>Onion</item>
+        <item>Tomato</item>
+        <item>Potato</item>
+        <item>Carrot</item>
+        <item>Spinach</item>
+        <item>Cabbage</item>
+        <item>Cauliflower</item>
+        <item>Pumpkin</item>
+        <item>Sweet Corn</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>Lemon</item>
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Coconut</item>
+        <item>Orange</item>
+        <item>Pineapple</item>
+        <item>Strawberries</item>
+        <item>Pear</item>
+        <item>Watermelon</item>
+        <item>Papaya</item>
+        <item>Guava</item>
+    </string-array>
+</resources>
